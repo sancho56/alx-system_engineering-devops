@@ -1,1 +1,1 @@
-This is the main directory readme
+This is the shell perimssion project
