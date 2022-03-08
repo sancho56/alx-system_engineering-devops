@@ -1,1 +1,1 @@
-This is the shell perimssion project
+this is the main window readme
