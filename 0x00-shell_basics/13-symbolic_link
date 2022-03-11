@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s -n -v /bin/ls __ls__
+ln -s -v /bin/ls __ls__ | grep '__ls__' '\\'
