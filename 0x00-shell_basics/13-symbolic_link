@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s -v /bin/ls __ls__ | grep -v 
+ln -s -v /bin/ls __ls__ | ls -l 
