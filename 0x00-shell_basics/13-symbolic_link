@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s -v ./bin/ls __ls__ | grep '\->'
+ln -s -v ./bin/ls __ls__ | grep '^l'
