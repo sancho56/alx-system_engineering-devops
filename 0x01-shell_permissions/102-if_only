@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello | find ./ -user guillaume *
+sudo chown -from=guillaume betty hello
