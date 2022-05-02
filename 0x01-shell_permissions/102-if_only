@@ -1,2 +1,2 @@
 #!/bin/bash
-find -user guillaume . sudo chown betty hello
+sudo chown betty hello | find ./ -user guillaume *
